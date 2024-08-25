@@ -1,0 +1,3 @@
+org\lisongyan\rpc\core\AppTest.class
+org\lisongyan\rpc\core\spring\springTest.class
+org\lisongyan\rpc\core\sessionTest\DefaultTest.class
